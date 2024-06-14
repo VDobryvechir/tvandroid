@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Tvandroid" parent="@style/Theme.Leanback" />
+</resources>
